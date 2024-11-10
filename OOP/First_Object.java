@@ -12,7 +12,7 @@ public class First_Object {
         int num2= 5;
 
         // int result = num1 + num2;
-        Calculator calculator = new Calculator();
+        calculator calculator = new calculator();
         int result = calculator.add(num1, num2);
 
         System.out.println(result);
