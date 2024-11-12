@@ -1,5 +1,5 @@
 public class Switch {
-    public static void main(String[] args) {
+    public static void main(StringInJava[] args) {
         int n = 2;
 
         switch (n) {

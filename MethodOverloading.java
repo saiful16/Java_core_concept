@@ -13,7 +13,7 @@ class Calculator {
 }
 
 public class MethodOverloading {
-    public static void main(String[] args) {
+    public static void main(StringInJava[] args) {
 
         Calculator obj = new Calculator();
         int r1 = obj.add(2,3);

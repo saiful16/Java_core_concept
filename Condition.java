@@ -1,5 +1,5 @@
 public class Condition {
-    public static void main(String[] args) {
+    public static void main(StringInJava[] args) {
         int x = 8;
 
         if (x> 5 && x < 10)

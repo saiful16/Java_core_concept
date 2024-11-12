@@ -1,5 +1,5 @@
 public class Ternary {
-    public static void main(String[] args) {
+    public static void main(StringInJava[] args) {
         int x = 4;
         int result = 0;
 

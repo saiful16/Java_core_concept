@@ -1,5 +1,5 @@
 public class Logicaloperator {
-    public static void main(String[] args) {
+    public static void main(StringInJava[] args) {
         int x= 5;
         int y = 7;
         int a = 8;

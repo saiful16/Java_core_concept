@@ -1,5 +1,5 @@
 public class While {
-    public static void main(String[] args) {
+    public static void main(StringInJava[] args) {
         int i =1;
         while (i<=4) {
             System.out.println("hello " + i);

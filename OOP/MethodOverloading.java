@@ -17,14 +17,18 @@ class calculator {
 public class MethodOverloading {
     public static void main(String[] args) {
 
-        calculator obj = new calculator();
-        int r1 = obj.add(2, 3);
-        System.out.println(r1);
+//        calculator obj = new calculator();
+//        int r1 = obj.add(2, 3);
+//        System.out.println(r1);
+//
+//        int r2 = obj.add(5, 3, 6);
+//        System.out.println(r2);
+//
+//        double r3 = obj.add(6.3, 5);
+//        System.out.println(r3);
 
-        int r2 = obj.add(5, 3, 6);
-        System.out.println(r2);
+        String name = "md saiful islam";
 
-        double r3 = obj.add(6.3, 5);
-        System.out.println(r3);
+        System.out.println(name);
     }
 }

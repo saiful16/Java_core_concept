@@ -1,5 +1,5 @@
 public class Array {
-    public static void main(String[] args) {
+    public static void main(StringInJava[] args) {
         int num [] = {12, 2, 6};
         int numbers [] = new int[4];
         numbers[0]= 4;
