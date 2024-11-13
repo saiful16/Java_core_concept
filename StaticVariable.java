@@ -31,6 +31,7 @@ public class StaticVariable {
         mobile2.show();
 
         Mobile.show1(mobile1);
+        Mobile.show1(mobile2);
 
     }
 }
