@@ -19,6 +19,7 @@ public class AdvancedCalculator extends Calculator{
         VeryAdvCalc obj = new VeryAdvCalc();
         System.out.println(obj.add(4, 8));
         System.out.println(obj.power(2, 3));
+        System.out.println(obj.add(2, 2));
     }
     
 }
@@ -26,6 +27,10 @@ public class AdvancedCalculator extends Calculator{
 class VeryAdvCalc extends AdvancedCalculator{
     public double power(int a, int b){
         return Math.pow(a, b);
+    }
+
+    public int add(int a, int b){
+        return a+b+1;
     }
     
 }
