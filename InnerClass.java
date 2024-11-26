@@ -12,6 +12,7 @@ public class InnerClass {
         A obj = new A(){
             public void show(){
                 System.out.println("In New show");
+                System.out.println("from inner class");
             }
         };
 
