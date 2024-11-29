@@ -15,8 +15,11 @@ public class InnerClass {
                 System.out.println("from inner class");
             }
         };
+        
 
         obj.show();
+        A obj1 = new A();
+        obj1.show();
     }
     
 }
