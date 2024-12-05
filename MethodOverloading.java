@@ -24,5 +24,8 @@ public class MethodOverloading {
 
         double r3 = obj.add(6, 5);
         System.out.println(r3);
+
+        double r4 = obj.add(2, 2, 2);
+        System.out.println(r4);
     }
 }
