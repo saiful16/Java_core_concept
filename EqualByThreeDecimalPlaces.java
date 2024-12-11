@@ -11,3 +11,6 @@ public class EqualByThreeDecimalPlaces {
         System.out.println(areEqualByThreeDecimalPlaces(23.456,23.457));
     }
 }
+
+//connection check
+
