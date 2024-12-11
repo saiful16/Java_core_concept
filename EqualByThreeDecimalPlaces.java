@@ -6,7 +6,7 @@ public class EqualByThreeDecimalPlaces {
         long secondRound = (long) (number2 * 1000);
         return firstRound == secondRound;
     }
-//github repo connection check
+//gitHub repo connection check
     public static void main(String[] args) {
         System.out.println(areEqualByThreeDecimalPlaces(23.456,23.457));
     }
